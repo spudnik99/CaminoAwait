@@ -1,376 +1,376 @@
 ,ID,Anho,Mes,Descripcion,Total
-0,200401,2004,1,Frances-Camino de,566
-1,200401,2004,1,Ingles-Camino,5
-2,200401,2004,1,Norte-Camino de,14
-3,200401,2004,1,Portugues-Camino,16
-4,200401,2004,1,Primitivo-Camino,17
-5,200401,2004,1,Via de la Plata,25
-6,200402,2004,2,Costa Camino Portugues  ,21
-7,200402,2004,2,Frances-Camino de,1124
-8,200402,2004,2,Ingles-Camino,34
-9,200402,2004,2,Norte-Camino de,41
-10,200402,2004,2,Otros caminos,4
-11,200402,2004,2,Portugues-Camino,157
-12,200402,2004,2,Via de la Plata,20
-13,200403,2004,3,Costa Camino Portugues  ,43
-14,200403,2004,3,Frances-Camino de,2349
-15,200403,2004,3,Ingles-Camino,141
-16,200403,2004,3,Norte-Camino de,103
-17,200403,2004,3,Portugues-Camino,368
-18,200403,2004,3,Primitivo-Camino,9
-19,200403,2004,3,Via de la Plata,92
-20,200404,2004,4,Costa Camino Portugues  ,142
-21,200404,2004,4,Frances-Camino de,12024
-22,200404,2004,4,Ingles-Camino,290
-23,200404,2004,4,Norte-Camino de,256
-24,200404,2004,4,Otros caminos,17
-25,200404,2004,4,Portugues-Camino,1990
-26,200404,2004,4,Primitivo-Camino,100
-27,200404,2004,4,Via de la Plata,735
-28,200405,2004,5,Costa Camino Portugues  ,162
-29,200405,2004,5,Frances-Camino de,13485
-30,200405,2004,5,Ingles-Camino,326
-31,200405,2004,5,Muxia-Finisterre,1
-32,200405,2004,5,Norte-Camino de,545
-33,200405,2004,5,Otros caminos,18
-34,200405,2004,5,Portugues-Camino,1499
-35,200405,2004,5,Primitivo-Camino,120
-36,200405,2004,5,Via de la Plata,704
-37,200406,2004,6,Costa Camino Portugues  ,87
-38,200406,2004,6,Frances-Camino de,15983
-39,200406,2004,6,Ingles-Camino,258
-40,200406,2004,6,Norte-Camino de,740
-41,200406,2004,6,Otros caminos,15
-42,200406,2004,6,Portugues-Camino,1094
-43,200406,2004,6,Primitivo-Camino,315
-44,200406,2004,6,Via de la Plata,803
-45,200407,2004,7,Costa Camino Portugues  ,110
-46,200407,2004,7,Frances-Camino de,24798
-47,200407,2004,7,Ingles-Camino,364
-48,200407,2004,7,Norte-Camino de,1891
-49,200407,2004,7,Otros caminos,29
-50,200407,2004,7,Portugues-Camino,2837
-51,200407,2004,7,Primitivo-Camino,478
-52,200407,2004,7,Via de la Plata,1384
-53,200408,2004,8,Costa Camino Portugues  ,123
-54,200408,2004,8,Frances-Camino de,31264
-55,200408,2004,8,Ingles-Camino,1045
-56,200408,2004,8,Muxia-Finisterre,247
-57,200408,2004,8,Norte-Camino de,1962
-58,200408,2004,8,Otros caminos,27
-59,200408,2004,8,Portugues-Camino,3303
-60,200408,2004,8,Primitivo-Camino,3800
-61,200408,2004,8,Via de la Plata,3830
-62,200409,2004,9,Costa Camino Portugues  ,50
-63,200409,2004,9,Frances-Camino de,18919
-64,200409,2004,9,Ingles-Camino,324
-65,200409,2004,9,Muxia-Finisterre,10
-66,200409,2004,9,Norte-Camino de,630
-67,200409,2004,9,Otros caminos,22
-68,200409,2004,9,Portugues-Camino,1717
-69,200409,2004,9,Primitivo-Camino,303
-70,200409,2004,9,Via de la Plata,777
-71,200410,2004,10,Costa Camino Portugues  ,25
-72,200410,2004,10,Frances-Camino de,11964
-73,200410,2004,10,Ingles-Camino,107
-74,200410,2004,10,Muxia-Finisterre,2
-75,200410,2004,10,Norte-Camino de,436
-76,200410,2004,10,Otros caminos,12
-77,200410,2004,10,Portugues-Camino,1123
-78,200410,2004,10,Primitivo-Camino,203
-79,200410,2004,10,Via de la Plata,684
-80,200411,2004,11,Costa Camino Portugues  ,27
-81,200411,2004,11,Frances-Camino de,3512
-82,200411,2004,11,Ingles-Camino,98
-83,200411,2004,11,Muxia-Finisterre,8
-84,200411,2004,11,Norte-Camino de,146
-85,200411,2004,11,Portugues-Camino,352
-86,200411,2004,11,Primitivo-Camino,87
-87,200411,2004,11,Via de la Plata,180
-88,200412,2004,12,Costa Camino Portugues  ,20
-89,200412,2004,12,Frances-Camino de,2649
-90,200412,2004,12,Ingles-Camino,100
-91,200412,2004,12,Muxia-Finisterre,12
-92,200412,2004,12,Norte-Camino de,206
-93,200412,2004,12,Portugues-Camino,568
-94,200412,2004,12,Primitivo-Camino,149
-95,200412,2004,12,Via de la Plata,98
-96,200501,2005,1,Frances-Camino de,226
-97,200501,2005,1,Ingles-Camino,3
-98,200501,2005,1,Muxia-Finisterre,1
-99,200501,2005,1,Norte-Camino de,8
-100,200501,2005,1,Portugues-Camino,21
-101,200501,2005,1,Primitivo-Camino,1
-102,200501,2005,1,Via de la Plata,9
-103,200502,2005,2,Frances-Camino de,478
-104,200502,2005,2,Ingles-Camino,3
-105,200502,2005,2,Norte-Camino de,4
-106,200502,2005,2,Otros caminos,1
-107,200502,2005,2,Portugues-Camino,54
-108,200502,2005,2,Primitivo-Camino,5
-109,200502,2005,2,Via de la Plata,20
-110,200503,2005,3,Costa Camino Portugues  ,5
-111,200503,2005,3,Frances-Camino de,2425
-112,200503,2005,3,Ingles-Camino,57
-113,200503,2005,3,Muxia-Finisterre,3
-114,200503,2005,3,Norte-Camino de,118
-115,200503,2005,3,Otros caminos,2
-116,200503,2005,3,Portugues-Camino,296
-117,200503,2005,3,Primitivo-Camino,86
-118,200503,2005,3,Via de la Plata,129
-119,200504,2005,4,Frances-Camino de,2661
-120,200504,2005,4,Ingles-Camino,16
-121,200504,2005,4,Muxia-Finisterre,1
-122,200504,2005,4,Norte-Camino de,41
-123,200504,2005,4,Otros caminos,2
-124,200504,2005,4,Portugues-Camino,406
-125,200504,2005,4,Primitivo-Camino,32
-126,200504,2005,4,Via de la Plata,148
-127,200505,2005,5,Costa Camino Portugues  ,40
-128,200505,2005,5,Frances-Camino de,7885
-129,200505,2005,5,Ingles-Camino,36
-130,200505,2005,5,Norte-Camino de,248
-131,200505,2005,5,Otros caminos,6
-132,200505,2005,5,Portugues-Camino,524
-133,200505,2005,5,Primitivo-Camino,78
-134,200505,2005,5,Via de la Plata,493
-135,200506,2005,6,Costa Camino Portugues  ,10
-136,200506,2005,6,Frances-Camino de,10997
-137,200506,2005,6,Ingles-Camino,45
-138,200506,2005,6,Muxia-Finisterre,11
-139,200506,2005,6,Norte-Camino de,376
-140,200506,2005,6,Otros caminos,8
-141,200506,2005,6,Portugues-Camino,590
-142,200506,2005,6,Primitivo-Camino,113
-143,200506,2005,6,Via de la Plata,469
-144,200507,2005,7,Costa Camino Portugues  ,25
-145,200507,2005,7,Frances-Camino de,15693
-146,200507,2005,7,Ingles-Camino,171
-147,200507,2005,7,Muxia-Finisterre,49
-148,200507,2005,7,Norte-Camino de,970
-149,200507,2005,7,Otros caminos,36
-150,200507,2005,7,Portugues-Camino,937
-151,200507,2005,7,Primitivo-Camino,311
-152,200507,2005,7,Via de la Plata,612
-153,200508,2005,8,Costa Camino Portugues  ,1
-154,200508,2005,8,Frances-Camino de,20873
-155,200508,2005,8,Ingles-Camino,135
-156,200508,2005,8,Invierno de Camino,5
-157,200508,2005,8,Muxia-Finisterre,27
-158,200508,2005,8,Norte-Camino de,1251
-159,200508,2005,8,Otros caminos,28
-160,200508,2005,8,Portugues-Camino,1523
-161,200508,2005,8,Primitivo-Camino,349
-162,200508,2005,8,Via de la Plata,639
-163,200509,2005,9,Costa Camino Portugues  ,2
-164,200509,2005,9,Frances-Camino de,10548
-165,200509,2005,9,Ingles-Camino,75
-166,200509,2005,9,Muxia-Finisterre,9
-167,200509,2005,9,Norte-Camino de,487
-168,200509,2005,9,Otros caminos,6
-169,200509,2005,9,Portugues-Camino,576
-170,200509,2005,9,Primitivo-Camino,161
-171,200509,2005,9,Via de la Plata,304
-172,200510,2005,10,Costa Camino Portugues  ,1
-173,200510,2005,10,Frances-Camino de,5980
-174,200510,2005,10,Ingles-Camino,25
-175,200510,2005,10,Muxia-Finisterre,4
-176,200510,2005,10,Norte-Camino de,205
-177,200510,2005,10,Otros caminos,8
-178,200510,2005,10,Portugues-Camino,395
-179,200510,2005,10,Primitivo-Camino,49
-180,200510,2005,10,Via de la Plata,206
-181,200511,2005,11,Frances-Camino de,1165
-182,200511,2005,11,Ingles-Camino,44
-183,200511,2005,11,Invierno de Camino,9
-184,200511,2005,11,Norte-Camino de,37
-185,200511,2005,11,Portugues-Camino,45
-186,200511,2005,11,Primitivo-Camino,6
-187,200511,2005,11,Via de la Plata,82
-188,200512,2005,12,Costa Camino Portugues  ,3
-189,200512,2005,12,Frances-Camino de,479
-190,200512,2005,12,Ingles-Camino,41
-191,200512,2005,12,Muxia-Finisterre,2
-192,200512,2005,12,Norte-Camino de,35
-193,200512,2005,12,Otros caminos,1
-194,200512,2005,12,Portugues-Camino,53
-195,200512,2005,12,Primitivo-Camino,24
-196,200512,2005,12,Via de la Plata,30
-197,200601,2006,1,Costa Camino Portugues  ,2
-198,200601,2006,1,Frances-Camino de,259
-199,200601,2006,1,Ingles-Camino,2
-200,200601,2006,1,Muxia-Finisterre,2
-201,200601,2006,1,Norte-Camino de,14
-202,200601,2006,1,Portugues-Camino,25
-203,200601,2006,1,Primitivo-Camino,5
-204,200601,2006,1,Via de la Plata,15
-205,200602,2006,2,Costa Camino Portugues  ,2
-206,200602,2006,2,Frances-Camino de,285
-207,200602,2006,2,Ingles-Camino,8
-208,200602,2006,2,Muxia-Finisterre,1
-209,200602,2006,2,Norte-Camino de,13
-210,200602,2006,2,Portugues-Camino,31
-211,200602,2006,2,Via de la Plata,11
-212,200603,2006,3,Frances-Camino de,944
-213,200603,2006,3,Ingles-Camino,5
-214,200603,2006,3,Muxia-Finisterre,1
-215,200603,2006,3,Norte-Camino de,40
-216,200603,2006,3,Otros caminos,1
-217,200603,2006,3,Portugues-Camino,60
-218,200603,2006,3,Primitivo-Camino,8
-219,200603,2006,3,Via de la Plata,37
-220,200604,2006,4,Costa Camino Portugues  ,3
-221,200604,2006,4,Frances-Camino de,5540
-222,200604,2006,4,Ingles-Camino,82
-223,200604,2006,4,Muxia-Finisterre,11
-224,200604,2006,4,Norte-Camino de,291
-225,200604,2006,4,Otros caminos,11
-226,200604,2006,4,Portugues-Camino,1085
-227,200604,2006,4,Primitivo-Camino,70
-228,200604,2006,4,Via de la Plata,358
-229,200605,2006,5,Costa Camino Portugues  ,18
-230,200605,2006,5,Frances-Camino de,8462
-231,200605,2006,5,Ingles-Camino,32
-232,200605,2006,5,Muxia-Finisterre,34
-233,200605,2006,5,Norte-Camino de,302
-234,200605,2006,5,Otros caminos,15
-235,200605,2006,5,Portugues-Camino,618
-236,200605,2006,5,Primitivo-Camino,128
-237,200605,2006,5,Via de la Plata,538
-238,200606,2006,6,Costa Camino Portugues  ,4
-239,200606,2006,6,Frances-Camino de,11140
-240,200606,2006,6,Ingles-Camino,73
-241,200606,2006,6,Muxia-Finisterre,5
-242,200606,2006,6,Norte-Camino de,456
-243,200606,2006,6,Otros caminos,15
-244,200606,2006,6,Portugues-Camino,689
-245,200606,2006,6,Primitivo-Camino,108
-246,200606,2006,6,Via de la Plata,521
-247,200607,2006,7,Costa Camino Portugues  ,10
-248,200607,2006,7,Frances-Camino de,14717
-249,200607,2006,7,Ingles-Camino,211
-250,200607,2006,7,Muxia-Finisterre,33
-251,200607,2006,7,Norte-Camino de,1404
-252,200607,2006,7,Otros caminos,12
-253,200607,2006,7,Portugues-Camino,1291
-254,200607,2006,7,Primitivo-Camino,328
-255,200607,2006,7,Via de la Plata,714
-256,200608,2006,8,Costa Camino Portugues  ,1
-257,200608,2006,8,Frances-Camino de,21465
-258,200608,2006,8,Ingles-Camino,242
-259,200608,2006,8,Muxia-Finisterre,8
-260,200608,2006,8,Norte-Camino de,1566
-261,200608,2006,8,Otros caminos,29
-262,200608,2006,8,Portugues-Camino,1424
-263,200608,2006,8,Primitivo-Camino,761
-264,200608,2006,8,Via de la Plata,687
-265,200609,2006,9,Costa Camino Portugues  ,6
-266,200609,2006,9,Frances-Camino de,11455
-267,200609,2006,9,Ingles-Camino,52
-268,200609,2006,9,Muxia-Finisterre,24
-269,200609,2006,9,Norte-Camino de,703
-270,200609,2006,9,Otros caminos,5
-271,200609,2006,9,Portugues-Camino,679
-272,200609,2006,9,Primitivo-Camino,240
-273,200609,2006,9,Via de la Plata,306
-274,200610,2006,10,Costa Camino Portugues  ,1
-275,200610,2006,10,Frances-Camino de,6556
-276,200610,2006,10,Ingles-Camino,58
-277,200610,2006,10,Muxia-Finisterre,4
-278,200610,2006,10,Norte-Camino de,296
-279,200610,2006,10,Otros caminos,5
-280,200610,2006,10,Portugues-Camino,418
-281,200610,2006,10,Primitivo-Camino,109
-282,200610,2006,10,Via de la Plata,253
-283,200611,2006,11,Frances-Camino de,1454
-284,200611,2006,11,Ingles-Camino,30
-285,200611,2006,11,Norte-Camino de,101
-286,200611,2006,11,Portugues-Camino,62
-287,200611,2006,11,Primitivo-Camino,36
-288,200611,2006,11,Via de la Plata,72
-289,200612,2006,12,Frances-Camino de,678
-290,200612,2006,12,Ingles-Camino,17
-291,200612,2006,12,Norte-Camino de,11
-292,200612,2006,12,Otros caminos,2
-293,200612,2006,12,Portugues-Camino,90
-294,200612,2006,12,Primitivo-Camino,24
-295,200612,2006,12,Via de la Plata,26
-296,200701,2007,1,Frances-Camino de,294
-297,200701,2007,1,Norte-Camino de,15
-298,200701,2007,1,Portugues-Camino,17
-299,200701,2007,1,Primitivo-Camino,13
-300,200701,2007,1,Via de la Plata,11
-301,200702,2007,2,Frances-Camino de,498
-302,200702,2007,2,Ingles-Camino,5
-303,200702,2007,2,Muxia-Finisterre,1
-304,200702,2007,2,Norte-Camino de,45
-305,200702,2007,2,Otros caminos,1
-306,200702,2007,2,Portugues-Camino,90
-307,200702,2007,2,Primitivo-Camino,5
-308,200702,2007,2,Via de la Plata,20
-309,200703,2007,3,Frances-Camino de,1405
-310,200703,2007,3,Ingles-Camino,22
-311,200703,2007,3,Muxia-Finisterre,1
-312,200703,2007,3,Norte-Camino de,58
-313,200703,2007,3,Otros caminos,14
-314,200703,2007,3,Portugues-Camino,126
-315,200703,2007,3,Primitivo-Camino,14
-316,200703,2007,3,Via de la Plata,40
-317,200704,2007,4,Costa Camino Portugues  ,17
-318,200704,2007,4,Frances-Camino de,6182
-319,200704,2007,4,Ingles-Camino,90
-320,200704,2007,4,Muxia-Finisterre,19
-321,200704,2007,4,Norte-Camino de,184
-322,200704,2007,4,Otros caminos,10
-323,200704,2007,4,Portugues-Camino,989
-324,200704,2007,4,Primitivo-Camino,176
-325,200704,2007,4,Via de la Plata,448
-326,200705,2007,5,Costa Camino Portugues  ,45
-327,200705,2007,5,Frances-Camino de,10619
-328,200705,2007,5,Ingles-Camino,105
-329,200705,2007,5,Muxia-Finisterre,4
-330,200705,2007,5,Norte-Camino de,394
-331,200705,2007,5,Otros caminos,21
-332,200705,2007,5,Portugues-Camino,813
-333,200705,2007,5,Primitivo-Camino,257
-334,200705,2007,5,Via de la Plata,666
-335,200706,2007,6,Costa Camino Portugues  ,10
-336,200706,2007,6,Frances-Camino de,12849
-337,200706,2007,6,Ingles-Camino,116
-338,200706,2007,6,Muxia-Finisterre,9
-339,200706,2007,6,Norte-Camino de,588
-340,200706,2007,6,Otros caminos,18
-341,200706,2007,6,Portugues-Camino,832
-342,200706,2007,6,Primitivo-Camino,240
-343,200706,2007,6,Via de la Plata,520
-344,200707,2007,7,Costa Camino Portugues  ,5
-345,200707,2007,7,Frances-Camino de,15509
-346,200707,2007,7,Ingles-Camino,253
-347,200707,2007,7,Muxia-Finisterre,76
-348,200707,2007,7,Norte-Camino de,1401
-349,200707,2007,7,Otros caminos,20
-350,200707,2007,7,Portugues-Camino,1496
-351,200707,2007,7,Primitivo-Camino,569
-352,200707,2007,7,Via de la Plata,827
-353,200708,2007,8,Costa Camino Portugues  ,12
-354,200708,2007,8,Frances-Camino de,21636
-355,200708,2007,8,Ingles-Camino,269
-356,200708,2007,8,Muxia-Finisterre,30
-357,200708,2007,8,Norte-Camino de,1813
-358,200708,2007,8,Otros caminos,28
-359,200708,2007,8,Portugues-Camino,1883
-360,200708,2007,8,Primitivo-Camino,902
-361,200708,2007,8,Via de la Plata,716
-362,200709,2007,9,Costa Camino Portugues  ,9
-363,200709,2007,9,Frances-Camino de,12615
-364,200709,2007,9,Ingles-Camino,108
-365,200709,2007,9,Invierno de Camino,7
-366,200709,2007,9,Muxia-Finisterre,30
-367,200709,2007,9,Norte-Camino de,687
-368,200709,2007,9,Otros caminos,20
-369,200709,2007,9,Portugues-Camino,996
-370,200709,2007,9,Primitivo-Camino,351
-371,200709,2007,9,Via de la Plata,459
+0,200401,2004,1,Frances-Camino de,1132
+1,200401,2004,1,Ingles-Camino,10
+2,200401,2004,1,Norte-Camino de,28
+3,200401,2004,1,Portugues-Camino,32
+4,200401,2004,1,Primitivo-Camino,34
+5,200401,2004,1,Via de la Plata,50
+6,200402,2004,2,Costa Camino Portugues  ,42
+7,200402,2004,2,Frances-Camino de,2248
+8,200402,2004,2,Ingles-Camino,68
+9,200402,2004,2,Norte-Camino de,82
+10,200402,2004,2,Otros caminos,8
+11,200402,2004,2,Portugues-Camino,314
+12,200402,2004,2,Via de la Plata,40
+13,200403,2004,3,Costa Camino Portugues  ,86
+14,200403,2004,3,Frances-Camino de,4698
+15,200403,2004,3,Ingles-Camino,282
+16,200403,2004,3,Norte-Camino de,206
+17,200403,2004,3,Portugues-Camino,736
+18,200403,2004,3,Primitivo-Camino,18
+19,200403,2004,3,Via de la Plata,184
+20,200404,2004,4,Costa Camino Portugues  ,284
+21,200404,2004,4,Frances-Camino de,24048
+22,200404,2004,4,Ingles-Camino,580
+23,200404,2004,4,Norte-Camino de,512
+24,200404,2004,4,Otros caminos,34
+25,200404,2004,4,Portugues-Camino,3980
+26,200404,2004,4,Primitivo-Camino,200
+27,200404,2004,4,Via de la Plata,1470
+28,200405,2004,5,Costa Camino Portugues  ,324
+29,200405,2004,5,Frances-Camino de,26970
+30,200405,2004,5,Ingles-Camino,652
+31,200405,2004,5,Muxia-Finisterre,2
+32,200405,2004,5,Norte-Camino de,1090
+33,200405,2004,5,Otros caminos,36
+34,200405,2004,5,Portugues-Camino,2998
+35,200405,2004,5,Primitivo-Camino,240
+36,200405,2004,5,Via de la Plata,1408
+37,200406,2004,6,Costa Camino Portugues  ,174
+38,200406,2004,6,Frances-Camino de,31966
+39,200406,2004,6,Ingles-Camino,516
+40,200406,2004,6,Norte-Camino de,1480
+41,200406,2004,6,Otros caminos,30
+42,200406,2004,6,Portugues-Camino,2188
+43,200406,2004,6,Primitivo-Camino,630
+44,200406,2004,6,Via de la Plata,1606
+45,200407,2004,7,Costa Camino Portugues  ,220
+46,200407,2004,7,Frances-Camino de,49596
+47,200407,2004,7,Ingles-Camino,728
+48,200407,2004,7,Norte-Camino de,3782
+49,200407,2004,7,Otros caminos,58
+50,200407,2004,7,Portugues-Camino,5674
+51,200407,2004,7,Primitivo-Camino,956
+52,200407,2004,7,Via de la Plata,2768
+53,200408,2004,8,Costa Camino Portugues  ,246
+54,200408,2004,8,Frances-Camino de,62528
+55,200408,2004,8,Ingles-Camino,2090
+56,200408,2004,8,Muxia-Finisterre,494
+57,200408,2004,8,Norte-Camino de,3924
+58,200408,2004,8,Otros caminos,54
+59,200408,2004,8,Portugues-Camino,6606
+60,200408,2004,8,Primitivo-Camino,7600
+61,200408,2004,8,Via de la Plata,7660
+62,200409,2004,9,Costa Camino Portugues  ,100
+63,200409,2004,9,Frances-Camino de,37838
+64,200409,2004,9,Ingles-Camino,648
+65,200409,2004,9,Muxia-Finisterre,20
+66,200409,2004,9,Norte-Camino de,1260
+67,200409,2004,9,Otros caminos,44
+68,200409,2004,9,Portugues-Camino,3434
+69,200409,2004,9,Primitivo-Camino,606
+70,200409,2004,9,Via de la Plata,1554
+71,200410,2004,10,Costa Camino Portugues  ,50
+72,200410,2004,10,Frances-Camino de,23928
+73,200410,2004,10,Ingles-Camino,214
+74,200410,2004,10,Muxia-Finisterre,4
+75,200410,2004,10,Norte-Camino de,872
+76,200410,2004,10,Otros caminos,24
+77,200410,2004,10,Portugues-Camino,2246
+78,200410,2004,10,Primitivo-Camino,406
+79,200410,2004,10,Via de la Plata,1368
+80,200411,2004,11,Costa Camino Portugues  ,54
+81,200411,2004,11,Frances-Camino de,7024
+82,200411,2004,11,Ingles-Camino,196
+83,200411,2004,11,Muxia-Finisterre,16
+84,200411,2004,11,Norte-Camino de,292
+85,200411,2004,11,Portugues-Camino,704
+86,200411,2004,11,Primitivo-Camino,174
+87,200411,2004,11,Via de la Plata,360
+88,200412,2004,12,Costa Camino Portugues  ,40
+89,200412,2004,12,Frances-Camino de,5298
+90,200412,2004,12,Ingles-Camino,200
+91,200412,2004,12,Muxia-Finisterre,24
+92,200412,2004,12,Norte-Camino de,412
+93,200412,2004,12,Portugues-Camino,1136
+94,200412,2004,12,Primitivo-Camino,298
+95,200412,2004,12,Via de la Plata,196
+96,200501,2005,1,Frances-Camino de,452
+97,200501,2005,1,Ingles-Camino,6
+98,200501,2005,1,Muxia-Finisterre,2
+99,200501,2005,1,Norte-Camino de,16
+100,200501,2005,1,Portugues-Camino,42
+101,200501,2005,1,Primitivo-Camino,2
+102,200501,2005,1,Via de la Plata,18
+103,200502,2005,2,Frances-Camino de,956
+104,200502,2005,2,Ingles-Camino,6
+105,200502,2005,2,Norte-Camino de,8
+106,200502,2005,2,Otros caminos,2
+107,200502,2005,2,Portugues-Camino,108
+108,200502,2005,2,Primitivo-Camino,10
+109,200502,2005,2,Via de la Plata,40
+110,200503,2005,3,Costa Camino Portugues  ,10
+111,200503,2005,3,Frances-Camino de,4850
+112,200503,2005,3,Ingles-Camino,114
+113,200503,2005,3,Muxia-Finisterre,6
+114,200503,2005,3,Norte-Camino de,236
+115,200503,2005,3,Otros caminos,4
+116,200503,2005,3,Portugues-Camino,592
+117,200503,2005,3,Primitivo-Camino,172
+118,200503,2005,3,Via de la Plata,258
+119,200504,2005,4,Frances-Camino de,5322
+120,200504,2005,4,Ingles-Camino,32
+121,200504,2005,4,Muxia-Finisterre,2
+122,200504,2005,4,Norte-Camino de,82
+123,200504,2005,4,Otros caminos,4
+124,200504,2005,4,Portugues-Camino,812
+125,200504,2005,4,Primitivo-Camino,64
+126,200504,2005,4,Via de la Plata,296
+127,200505,2005,5,Costa Camino Portugues  ,80
+128,200505,2005,5,Frances-Camino de,15770
+129,200505,2005,5,Ingles-Camino,72
+130,200505,2005,5,Norte-Camino de,496
+131,200505,2005,5,Otros caminos,12
+132,200505,2005,5,Portugues-Camino,1048
+133,200505,2005,5,Primitivo-Camino,156
+134,200505,2005,5,Via de la Plata,986
+135,200506,2005,6,Costa Camino Portugues  ,20
+136,200506,2005,6,Frances-Camino de,21994
+137,200506,2005,6,Ingles-Camino,90
+138,200506,2005,6,Muxia-Finisterre,22
+139,200506,2005,6,Norte-Camino de,752
+140,200506,2005,6,Otros caminos,16
+141,200506,2005,6,Portugues-Camino,1180
+142,200506,2005,6,Primitivo-Camino,226
+143,200506,2005,6,Via de la Plata,938
+144,200507,2005,7,Costa Camino Portugues  ,50
+145,200507,2005,7,Frances-Camino de,31386
+146,200507,2005,7,Ingles-Camino,342
+147,200507,2005,7,Muxia-Finisterre,98
+148,200507,2005,7,Norte-Camino de,1940
+149,200507,2005,7,Otros caminos,72
+150,200507,2005,7,Portugues-Camino,1874
+151,200507,2005,7,Primitivo-Camino,622
+152,200507,2005,7,Via de la Plata,1224
+153,200508,2005,8,Costa Camino Portugues  ,2
+154,200508,2005,8,Frances-Camino de,41746
+155,200508,2005,8,Ingles-Camino,270
+156,200508,2005,8,Invierno de Camino,10
+157,200508,2005,8,Muxia-Finisterre,54
+158,200508,2005,8,Norte-Camino de,2502
+159,200508,2005,8,Otros caminos,56
+160,200508,2005,8,Portugues-Camino,3046
+161,200508,2005,8,Primitivo-Camino,698
+162,200508,2005,8,Via de la Plata,1278
+163,200509,2005,9,Costa Camino Portugues  ,4
+164,200509,2005,9,Frances-Camino de,21096
+165,200509,2005,9,Ingles-Camino,150
+166,200509,2005,9,Muxia-Finisterre,18
+167,200509,2005,9,Norte-Camino de,974
+168,200509,2005,9,Otros caminos,12
+169,200509,2005,9,Portugues-Camino,1152
+170,200509,2005,9,Primitivo-Camino,322
+171,200509,2005,9,Via de la Plata,608
+172,200510,2005,10,Costa Camino Portugues  ,2
+173,200510,2005,10,Frances-Camino de,11960
+174,200510,2005,10,Ingles-Camino,50
+175,200510,2005,10,Muxia-Finisterre,8
+176,200510,2005,10,Norte-Camino de,410
+177,200510,2005,10,Otros caminos,16
+178,200510,2005,10,Portugues-Camino,790
+179,200510,2005,10,Primitivo-Camino,98
+180,200510,2005,10,Via de la Plata,412
+181,200511,2005,11,Frances-Camino de,2330
+182,200511,2005,11,Ingles-Camino,88
+183,200511,2005,11,Invierno de Camino,18
+184,200511,2005,11,Norte-Camino de,74
+185,200511,2005,11,Portugues-Camino,90
+186,200511,2005,11,Primitivo-Camino,12
+187,200511,2005,11,Via de la Plata,164
+188,200512,2005,12,Costa Camino Portugues  ,6
+189,200512,2005,12,Frances-Camino de,958
+190,200512,2005,12,Ingles-Camino,82
+191,200512,2005,12,Muxia-Finisterre,4
+192,200512,2005,12,Norte-Camino de,70
+193,200512,2005,12,Otros caminos,2
+194,200512,2005,12,Portugues-Camino,106
+195,200512,2005,12,Primitivo-Camino,48
+196,200512,2005,12,Via de la Plata,60
+197,200601,2006,1,Costa Camino Portugues  ,4
+198,200601,2006,1,Frances-Camino de,518
+199,200601,2006,1,Ingles-Camino,4
+200,200601,2006,1,Muxia-Finisterre,4
+201,200601,2006,1,Norte-Camino de,28
+202,200601,2006,1,Portugues-Camino,50
+203,200601,2006,1,Primitivo-Camino,10
+204,200601,2006,1,Via de la Plata,30
+205,200602,2006,2,Costa Camino Portugues  ,4
+206,200602,2006,2,Frances-Camino de,570
+207,200602,2006,2,Ingles-Camino,16
+208,200602,2006,2,Muxia-Finisterre,2
+209,200602,2006,2,Norte-Camino de,26
+210,200602,2006,2,Portugues-Camino,62
+211,200602,2006,2,Via de la Plata,22
+212,200603,2006,3,Frances-Camino de,1888
+213,200603,2006,3,Ingles-Camino,10
+214,200603,2006,3,Muxia-Finisterre,2
+215,200603,2006,3,Norte-Camino de,80
+216,200603,2006,3,Otros caminos,2
+217,200603,2006,3,Portugues-Camino,120
+218,200603,2006,3,Primitivo-Camino,16
+219,200603,2006,3,Via de la Plata,74
+220,200604,2006,4,Costa Camino Portugues  ,6
+221,200604,2006,4,Frances-Camino de,11080
+222,200604,2006,4,Ingles-Camino,164
+223,200604,2006,4,Muxia-Finisterre,22
+224,200604,2006,4,Norte-Camino de,582
+225,200604,2006,4,Otros caminos,22
+226,200604,2006,4,Portugues-Camino,2170
+227,200604,2006,4,Primitivo-Camino,140
+228,200604,2006,4,Via de la Plata,716
+229,200605,2006,5,Costa Camino Portugues  ,36
+230,200605,2006,5,Frances-Camino de,16924
+231,200605,2006,5,Ingles-Camino,64
+232,200605,2006,5,Muxia-Finisterre,68
+233,200605,2006,5,Norte-Camino de,604
+234,200605,2006,5,Otros caminos,30
+235,200605,2006,5,Portugues-Camino,1236
+236,200605,2006,5,Primitivo-Camino,256
+237,200605,2006,5,Via de la Plata,1076
+238,200606,2006,6,Costa Camino Portugues  ,8
+239,200606,2006,6,Frances-Camino de,22280
+240,200606,2006,6,Ingles-Camino,146
+241,200606,2006,6,Muxia-Finisterre,10
+242,200606,2006,6,Norte-Camino de,912
+243,200606,2006,6,Otros caminos,30
+244,200606,2006,6,Portugues-Camino,1378
+245,200606,2006,6,Primitivo-Camino,216
+246,200606,2006,6,Via de la Plata,1042
+247,200607,2006,7,Costa Camino Portugues  ,20
+248,200607,2006,7,Frances-Camino de,29434
+249,200607,2006,7,Ingles-Camino,422
+250,200607,2006,7,Muxia-Finisterre,66
+251,200607,2006,7,Norte-Camino de,2808
+252,200607,2006,7,Otros caminos,24
+253,200607,2006,7,Portugues-Camino,2582
+254,200607,2006,7,Primitivo-Camino,656
+255,200607,2006,7,Via de la Plata,1428
+256,200608,2006,8,Costa Camino Portugues  ,2
+257,200608,2006,8,Frances-Camino de,42930
+258,200608,2006,8,Ingles-Camino,484
+259,200608,2006,8,Muxia-Finisterre,16
+260,200608,2006,8,Norte-Camino de,3132
+261,200608,2006,8,Otros caminos,58
+262,200608,2006,8,Portugues-Camino,2848
+263,200608,2006,8,Primitivo-Camino,1522
+264,200608,2006,8,Via de la Plata,1374
+265,200609,2006,9,Costa Camino Portugues  ,12
+266,200609,2006,9,Frances-Camino de,22910
+267,200609,2006,9,Ingles-Camino,104
+268,200609,2006,9,Muxia-Finisterre,48
+269,200609,2006,9,Norte-Camino de,1406
+270,200609,2006,9,Otros caminos,10
+271,200609,2006,9,Portugues-Camino,1358
+272,200609,2006,9,Primitivo-Camino,480
+273,200609,2006,9,Via de la Plata,612
+274,200610,2006,10,Costa Camino Portugues  ,2
+275,200610,2006,10,Frances-Camino de,13112
+276,200610,2006,10,Ingles-Camino,116
+277,200610,2006,10,Muxia-Finisterre,8
+278,200610,2006,10,Norte-Camino de,592
+279,200610,2006,10,Otros caminos,10
+280,200610,2006,10,Portugues-Camino,836
+281,200610,2006,10,Primitivo-Camino,218
+282,200610,2006,10,Via de la Plata,506
+283,200611,2006,11,Frances-Camino de,2908
+284,200611,2006,11,Ingles-Camino,60
+285,200611,2006,11,Norte-Camino de,202
+286,200611,2006,11,Portugues-Camino,124
+287,200611,2006,11,Primitivo-Camino,72
+288,200611,2006,11,Via de la Plata,144
+289,200612,2006,12,Frances-Camino de,1356
+290,200612,2006,12,Ingles-Camino,34
+291,200612,2006,12,Norte-Camino de,22
+292,200612,2006,12,Otros caminos,4
+293,200612,2006,12,Portugues-Camino,180
+294,200612,2006,12,Primitivo-Camino,48
+295,200612,2006,12,Via de la Plata,52
+296,200701,2007,1,Frances-Camino de,588
+297,200701,2007,1,Norte-Camino de,30
+298,200701,2007,1,Portugues-Camino,34
+299,200701,2007,1,Primitivo-Camino,26
+300,200701,2007,1,Via de la Plata,22
+301,200702,2007,2,Frances-Camino de,996
+302,200702,2007,2,Ingles-Camino,10
+303,200702,2007,2,Muxia-Finisterre,2
+304,200702,2007,2,Norte-Camino de,90
+305,200702,2007,2,Otros caminos,2
+306,200702,2007,2,Portugues-Camino,180
+307,200702,2007,2,Primitivo-Camino,10
+308,200702,2007,2,Via de la Plata,40
+309,200703,2007,3,Frances-Camino de,2810
+310,200703,2007,3,Ingles-Camino,44
+311,200703,2007,3,Muxia-Finisterre,2
+312,200703,2007,3,Norte-Camino de,116
+313,200703,2007,3,Otros caminos,28
+314,200703,2007,3,Portugues-Camino,252
+315,200703,2007,3,Primitivo-Camino,28
+316,200703,2007,3,Via de la Plata,80
+317,200704,2007,4,Costa Camino Portugues  ,34
+318,200704,2007,4,Frances-Camino de,12364
+319,200704,2007,4,Ingles-Camino,180
+320,200704,2007,4,Muxia-Finisterre,38
+321,200704,2007,4,Norte-Camino de,368
+322,200704,2007,4,Otros caminos,20
+323,200704,2007,4,Portugues-Camino,1978
+324,200704,2007,4,Primitivo-Camino,352
+325,200704,2007,4,Via de la Plata,896
+326,200705,2007,5,Costa Camino Portugues  ,90
+327,200705,2007,5,Frances-Camino de,21238
+328,200705,2007,5,Ingles-Camino,210
+329,200705,2007,5,Muxia-Finisterre,8
+330,200705,2007,5,Norte-Camino de,788
+331,200705,2007,5,Otros caminos,42
+332,200705,2007,5,Portugues-Camino,1626
+333,200705,2007,5,Primitivo-Camino,514
+334,200705,2007,5,Via de la Plata,1332
+335,200706,2007,6,Costa Camino Portugues  ,20
+336,200706,2007,6,Frances-Camino de,25698
+337,200706,2007,6,Ingles-Camino,232
+338,200706,2007,6,Muxia-Finisterre,18
+339,200706,2007,6,Norte-Camino de,1176
+340,200706,2007,6,Otros caminos,36
+341,200706,2007,6,Portugues-Camino,1664
+342,200706,2007,6,Primitivo-Camino,480
+343,200706,2007,6,Via de la Plata,1040
+344,200707,2007,7,Costa Camino Portugues  ,10
+345,200707,2007,7,Frances-Camino de,31018
+346,200707,2007,7,Ingles-Camino,506
+347,200707,2007,7,Muxia-Finisterre,152
+348,200707,2007,7,Norte-Camino de,2802
+349,200707,2007,7,Otros caminos,40
+350,200707,2007,7,Portugues-Camino,2992
+351,200707,2007,7,Primitivo-Camino,1138
+352,200707,2007,7,Via de la Plata,1654
+353,200708,2007,8,Costa Camino Portugues  ,24
+354,200708,2007,8,Frances-Camino de,43272
+355,200708,2007,8,Ingles-Camino,538
+356,200708,2007,8,Muxia-Finisterre,60
+357,200708,2007,8,Norte-Camino de,3626
+358,200708,2007,8,Otros caminos,56
+359,200708,2007,8,Portugues-Camino,3766
+360,200708,2007,8,Primitivo-Camino,1804
+361,200708,2007,8,Via de la Plata,1432
+362,200709,2007,9,Costa Camino Portugues  ,18
+363,200709,2007,9,Frances-Camino de,25230
+364,200709,2007,9,Ingles-Camino,216
+365,200709,2007,9,Invierno de Camino,14
+366,200709,2007,9,Muxia-Finisterre,60
+367,200709,2007,9,Norte-Camino de,1374
+368,200709,2007,9,Otros caminos,40
+369,200709,2007,9,Portugues-Camino,1992
+370,200709,2007,9,Primitivo-Camino,702
+371,200709,2007,9,Via de la Plata,918
 372,200710,2007,10,Frances-Camino de,8002
 373,200710,2007,10,Ingles-Camino,38
 374,200710,2007,10,Muxia-Finisterre,6
@@ -2128,3 +2128,37 @@
 2126,202210,2022,10,Primitivo-Camino,2041
 2127,202210,2022,10,San Salvador,11
 2128,202210,2022,10,Via de la Plata,955
+2129,202211,2022,11,Camino del Barbanza,1
+2130,202211,2022,11,Camino del Mar,1
+2131,202211,2022,11,Camino olvidado,3
+2132,202211,2022,11,Costa Camino Portugues  ,707
+2133,202211,2022,11,Frances-Camino de,5997
+2134,202211,2022,11,Geira e Arrieiros,27
+2135,202211,2022,11,Ingles-Camino,506
+2136,202211,2022,11,Invierno de Camino,234
+2137,202211,2022,11,Miñoto Ribeiro,31
+2138,202211,2022,11,Muros - Noia Camino,1
+2139,202211,2022,11,Muxia-Finisterre,43
+2140,202211,2022,11,Norte-Camino de,796
+2141,202211,2022,11,Otros caminos,72
+2142,202211,2022,11,Portugues-Camino,1842
+2143,202211,2022,11,Primitivo-Camino,437
+2144,202211,2022,11,San Salvador,1
+2145,202211,2022,11,Via de la Plata,583
+2146,202211,2022,11,Vía Céltica,1
+2147,202212,2022,12,Camino del Barbanza,66
+2148,202212,2022,12,Camino del Mar,1
+2149,202212,2022,12,Camino olvidado,1
+2150,202212,2022,12,Costa Camino Portugues  ,329
+2151,202212,2022,12,Frances-Camino de,2167
+2152,202212,2022,12,Geira e Arrieiros,13
+2153,202212,2022,12,Ingles-Camino,344
+2154,202212,2022,12,Invierno de Camino,60
+2155,202212,2022,12,Muros - Noia Camino,12
+2156,202212,2022,12,Muxia-Finisterre,12
+2157,202212,2022,12,Norte-Camino de,259
+2158,202212,2022,12,Otros caminos,39
+2159,202212,2022,12,Portugues-Camino,1004
+2160,202212,2022,12,Primitivo-Camino,204
+2161,202212,2022,12,Sin establecer,1
+2162,202212,2022,12,Via de la Plata,171
